@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific for the project
+Reacher_Windows_x86_64/
+Reacher_Windows_x86_64_OneAgent/
